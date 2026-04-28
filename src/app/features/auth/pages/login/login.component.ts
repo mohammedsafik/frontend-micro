@@ -15,7 +15,7 @@ import { getApiErrorMessage } from '../../../../core/utils/error-message.util';
     <section class="page-shell d-flex align-items-center justify-content-center">
       <div class="auth-card card border-0">
         <div class="card-body p-10 p-md-10">
-          <span class="brand-badge mb-3 d-inline-flex">Welcome to Quic-Comm</span>
+          <span class="brand-badge mb-3 d-inline-flex">Welcome to finest coder</span>
           <h1 class="h3 fw-bold mb-2">Welcome back</h1>
           <p class="text-secondary mb-4">
             Log in to browse products, manage your cart, and track live orders.
