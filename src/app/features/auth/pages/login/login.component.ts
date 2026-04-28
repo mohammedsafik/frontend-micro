@@ -14,7 +14,7 @@ import { getApiErrorMessage } from '../../../../core/utils/error-message.util';
   template: `
     <section class="page-shell d-flex align-items-center justify-content-center">
       <div class="auth-card card border-0">
-        <div class="card-body p-4 p-md-5">
+        <div class="card-body p-10 p-md-10">
           <span class="brand-badge mb-3 d-inline-flex">Auth Portal</span>
           <h1 class="h3 fw-bold mb-2">Welcome back</h1>
           <p class="text-secondary mb-4">
